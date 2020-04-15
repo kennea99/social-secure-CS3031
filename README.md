@@ -1,6 +1,6 @@
 # socialsecure
 
-secure social media app.
+secure secure app for Advanced Telecommunications-CS3031. Text encryptor and Decryptor.
 
 ## Getting Started
 
